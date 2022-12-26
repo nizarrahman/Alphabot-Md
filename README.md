@@ -59,7 +59,7 @@ But some I haven't changed the language 🛐
 
 # Instalasi
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Alphabot-Md)](https://repl.it/github/zeeone-ofc/Alphabot-Md)
+[![Run on Repl.it](https://repl.it/badge/github/nizarrahman/Alphabot-Md)](https://repl.it/github/nizarrahman/Alphabot-Md)
 
 ## FOR RAILWAY USER 
 
